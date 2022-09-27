@@ -6,5 +6,7 @@ links:
     url: /example-page/
   - title: Example Folder
     collection: hello
+  - title: Hello
+    collection: hello
   - title: Content
     url: /permalink
